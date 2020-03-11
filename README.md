@@ -58,3 +58,4 @@ $ polymer serve build/bundled
 $ polymer test
 ```
 你的应用已经设置由[web-component-tester](https://github.com/Polymer/web-component-tester) 进行测试。运行`polymer test`在本地上测试你的应用。
+$ 修改了一点readme
